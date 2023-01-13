@@ -1,0 +1,15 @@
+C:\Users\windows subsidary\source\repos\MusicApp\bin\Debug\net6.0\MusicApp.exe
+C:\Users\windows subsidary\source\repos\MusicApp\bin\Debug\net6.0\MusicApp.deps.json
+C:\Users\windows subsidary\source\repos\MusicApp\bin\Debug\net6.0\MusicApp.runtimeconfig.json
+C:\Users\windows subsidary\source\repos\MusicApp\bin\Debug\net6.0\MusicApp.dll
+C:\Users\windows subsidary\source\repos\MusicApp\bin\Debug\net6.0\MusicApp.pdb
+C:\Users\windows subsidary\source\repos\MusicApp\obj\Debug\net6.0\MusicApp.csproj.AssemblyReference.cache
+C:\Users\windows subsidary\source\repos\MusicApp\obj\Debug\net6.0\MusicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows subsidary\source\repos\MusicApp\obj\Debug\net6.0\MusicApp.AssemblyInfoInputs.cache
+C:\Users\windows subsidary\source\repos\MusicApp\obj\Debug\net6.0\MusicApp.AssemblyInfo.cs
+C:\Users\windows subsidary\source\repos\MusicApp\obj\Debug\net6.0\MusicApp.csproj.CoreCompileInputs.cache
+C:\Users\windows subsidary\source\repos\MusicApp\obj\Debug\net6.0\MusicApp.dll
+C:\Users\windows subsidary\source\repos\MusicApp\obj\Debug\net6.0\refint\MusicApp.dll
+C:\Users\windows subsidary\source\repos\MusicApp\obj\Debug\net6.0\MusicApp.pdb
+C:\Users\windows subsidary\source\repos\MusicApp\obj\Debug\net6.0\MusicApp.genruntimeconfig.cache
+C:\Users\windows subsidary\source\repos\MusicApp\obj\Debug\net6.0\ref\MusicApp.dll
